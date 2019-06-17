@@ -20,14 +20,24 @@ The Cadence libary folder consists all generatived design views,
 
 
 ![Cadence Layout Views](cds2.png)
+- The layout cell has fixed port gap for signal path
+- The layout cell can be cascaded during system level implementation
+- The EM view has been simplified to reduce simulation resource
+
 
 ![Cadence Schemaitc Views](cds3.png)
 
+- A symbol view has been created
+- A schematic view with touche-stone file setting has been used
+- *to do* add LVS stop
+- *to do* LVS support for Assura
+
 ## AnsysEM Libary
 
-The AnsysEM project includes all designs in Cadence library with automatic EM simulation setups(port,
+- The AnsysEM project includes all designs in Cadence library with automatic EM simulation setups(port,
 simulation sweeping etc.)
-A script tool for exporting simulaiton results and re-name simulaiton results as design name is also included for
+
+- A script tool for exporting simulaiton results and re-name simulaiton results as design name is also included for
 convenience.
 ![AnsysEM project batch](hfss.png)
 
