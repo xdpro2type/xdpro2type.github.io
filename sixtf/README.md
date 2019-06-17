@@ -45,6 +45,7 @@ convenience.
 ## ADS file
 
 A configure file for data component model is included
+![ADS Data Component Setting](ads.png)
 
 
 
