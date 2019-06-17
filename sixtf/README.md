@@ -1,5 +1,6 @@
 # Silicon On-Chip Transformer Modeling
 
+
 We provide a zipped project includes flowing files:
 - Cadence library with layout view and symbol view (./cds)
 - Ansys EM project ready for simulation (./hfss)
@@ -11,8 +12,8 @@ We provide a zipped project includes flowing files:
 The Cadence libary folder consists all generated design views,
 
 ### Features:
-- Customization of all passive device 
-- Adjustable dummy metal density and layer and geometry
+- Customization of all passive devices
+- Adjustable dummy metal density and metal layer and geometries
 - Schematic symbol with touchstone file setting
 - Layout view with polygon off-grid error fix
 - Layout view layout_em with via/dummy simplification for EM simulation setup
