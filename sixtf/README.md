@@ -8,7 +8,7 @@ We provide a zipped project includes flowing files:
 
 ## Cadence Libary
 
-The Cadence libary folder consists all generatived design views,
+The Cadence libary folder consists all generated design views,
 
 ### Features:
 - Customization of all passive device 
