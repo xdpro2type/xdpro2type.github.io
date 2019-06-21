@@ -13,7 +13,7 @@ The transformer is intended for on-chip impedance transformer between driver-sta
 
 ## AnsysEM Setup
 
-Due to NDA, the substrated is not properly set. The project is just for illustration of quick flow we developped. 
+Due to NDA, the substrated is not properly set. The project is just for illustration of RPA flow we developped. 
 
 ![XTF](gaashfss.png)
 The project can be download ![links](./GaAs_XTF.aedt)
