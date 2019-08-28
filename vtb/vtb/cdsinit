@@ -1,0 +1,20 @@
+;###############################################################################
+; NAME:    .cdsinit
+; PURPOSE: ~/.cdsinit
+; AUTHOR:  Jiafu Lin jiafucmos@gmail.com
+; NOTES:
+;###############################################################################
+
+printf("\n ---------------Loading VTB -----------------\n")
+
+setSkillPath( append( getSkillPath() list( "~/.vtb/skill" )))
+
+editor = "vim"
+
+;hiSetBindKey("Schematics" "<Key>0" "geDeleteNetProbe()")
+
+load("util.il")
+load("menu.il")
+load("vtblines.il")
+
+printf("\n ---------------Loading VTB  Done-----------------\n")
