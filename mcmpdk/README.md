@@ -1,4 +1,8 @@
 # MCMPDK
+The advantage of this tookits are:
+    1. perform multi-chip package design in virtuoso environment, support team collaboration throug OA data base
+    1. perform quick EM modeling through one-click GUI menu(inlcudings, CMOS/HBT die, SMD devie, bondwires etc)
+
 
 The toolkit basically defines
 
